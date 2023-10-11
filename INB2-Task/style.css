@@ -1,0 +1,29 @@
+*{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    width: 550px;
+    padding: 32px;
+    margin-left: 30%;
+    margin-top: 3%;
+    color: #0e0d0d;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(254, 250, 149);
+    border-radius: 20px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    background-image:linear-gradient(to right, #44fefb, #20adf4) ;
+    box-shadow: 0px 0px 2px 2px rgb(225, 245, 124);
+    color: #020202;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 24px;
+}
+img{
+    width: 20%;
+}
